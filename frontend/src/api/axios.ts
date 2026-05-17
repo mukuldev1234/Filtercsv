@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://smart-leads-backend-u1bi.onrender.com/",
+  baseURL: "https://smart-leads-backend-u1bi.onrender.com/api",
 });
 
 // 🔥 REQUEST INTERCEPTOR
